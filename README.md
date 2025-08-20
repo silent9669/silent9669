@@ -26,7 +26,7 @@ I mix **clean code** + **anime vibes** = 💖
 
 ## 🔥 Contribution Graph (Anime Wave)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/asset/example.svg" width="90%">
+  ![silent9669's GitHub Repository Contribution stats](https://github.com/silent9669)
 </p>
 
 ---
