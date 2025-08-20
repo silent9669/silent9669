@@ -4,9 +4,8 @@
 </p>
 
 # <img width="30" height="50" alt="image" src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/VN%402x.png"> Xin Chao, I’m Dang Phuc ~ こんにちは 👋  
-> ⚡ Full-stack developer | 📚 SAT simulator builder | 🎶 Anime lover  
+> ⚡ Full-stack developer | 📚 SAT simulator builder | 🎶 Music lover  
 
-I mix **clean code** + **anime vibes** = 💖  
 
 ---
 
