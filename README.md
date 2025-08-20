@@ -23,10 +23,9 @@
 </p>
 
 
-## 🌸 Projects
-- 🎯 [**SAT Simulator**](https://github.com/silent9669) — SAT test platform  
-- 💻 Fullstack apps — React + Express + MongoDB  
-- 🧩 Algorithms playground — Solving problems while vibing with anime OSTs  
+## 🧩 Projects
+- 🎯 [**SAT Simulator**](https://github.com/silent9669/chucamo) — SAT test platform  
+- 💻 Fullstack apps — React + Express + MongoDB   
 
 
 
