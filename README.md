@@ -3,7 +3,7 @@
   <img src="https://i.waifu.pics/EN6o4oM.gif" width="100%" alt="banner">
 </p>
 
-#  Hello, I’m silent9669 ~ こんにちは 👋  
+#  🇻🇳 Hello, I’m silent9669 ~ こんにちは 👋  
 > ⚡ Full-stack developer | 📚 SAT simulator builder | 🎶 Anime lover  
 
 I mix **clean code** + **anime vibes** = 💖  
