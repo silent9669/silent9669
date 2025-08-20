@@ -3,7 +3,7 @@
   <img src="https://i.waifu.pics/EN6o4oM.gif" width="100%" alt="banner">
 </p>
 
-# <img width="30" height="50" alt="image" src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/VN%402x.png"> Xin Chao, I’m silent9669 ~ こんにちは 👋  
+# <img width="30" height="50" alt="image" src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/VN%402x.png"> Xin Chao, I’m Dang Phuc ~ こんにちは 👋  
 > ⚡ Full-stack developer | 📚 SAT simulator builder | 🎶 Anime lover  
 
 I mix **clean code** + **anime vibes** = 💖  
