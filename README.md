@@ -1,46 +1,60 @@
-<!-- Anime Banner -->
-<img src="https://i.waifu.pics/EN6o4oM.gif" width="100%">
+<!-- ✨ Anime Banner -->
+<p align="center">
+  <img src="https://i.waifu.pics/EN6o4oM.gif" width="100%" alt="banner">
+</p>
 
 # 🌸 Hello, I’m silent9669 ~ こんにちは 👋  
+> ⚡ Full-stack developer | 📚 SAT simulator builder | 🎶 Anime lover  
 
-I'm a **coding otaku** who loves mixing **anime aesthetics** with **clean code** ✨.  
-Currently building projects in **Python, JavaScript, and React** while sipping ☕ and watching anime.  
+I mix **clean code** + **anime vibes** = 💖  
 
 ---
 
 ## 🔧 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,html,css,git" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=silent9669&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silent9669&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=silent9669&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent9669&layout=compact&theme=tokyonight&hide_border=true" height="180">
+</p>
+
+---
+
+## 🎧 Now Playing on Spotify
+<p align="center">
+  <img src="https://novatorem-silent9669.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+</p>
+
+---
+
+## 🔥 Contribution Graph (Anime Wave)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/asset/example.svg" width="90%">
+</p>
 
 ---
 
 ## 🌸 Projects
-- 🎯 **[SAT Simulator](https://github.com/silent9669)** — Anime-inspired SAT test platform  
-- 💻 **Fullstack Projects** — React + Express + MongoDB  
-- 🧩 **Algorithm Playground** — Solving problems while vibing with anime soundtracks  
-
----
-
-## 🎧 Now Playing
-![Spotify](https://novatorem-bgk7y3wb8-silent9669.vercel.app/api/spotify)
+- 🎯 [**SAT Simulator**](https://github.com/silent9669) — Anime-styled SAT test platform  
+- 💻 Fullstack apps — React + Express + MongoDB  
+- 🧩 Algorithms playground — Solving problems while vibing with anime OSTs  
 
 ---
 
 ## 🌐 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-![Visitors](https://profile-counter.glitch.me/silent9669/count.svg)
+<p align="center">
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://profile-counter.glitch.me/silent9669/count.svg" />
+</p>
 
 ---
 
-<!-- Cute outro GIF -->
-<img src="https://i.waifu.pics/pt4mM-1.gif" width="100%">
+<p align="center">
+  <img src="https://i.waifu.pics/pt4mM-1.gif" width="60%" alt="outro">
+</p>
