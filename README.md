@@ -23,8 +23,6 @@ I mix **clean code** + **anime vibes** = 💖
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent9669&layout=compact&theme=tokyonight&hide_border=true" height="180">
 </p>
 
-![Snake animation](https://github.com/silent9669/silent9669/blob/output/github-contribution-grid-snake.svg)
-
 ## 🌸 Projects
 - 🎯 [**SAT Simulator**](https://github.com/silent9669) — Anime-styled SAT test platform  
 - 💻 Fullstack apps — React + Express + MongoDB  
