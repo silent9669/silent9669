@@ -22,13 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent9669&layout=compact&theme=tokyonight&hide_border=true" width="400" height="180">
 </p>
 
-
-## 🧩 Projects
-- 🎯 [**SAT Simulator**](https://github.com/silent9669/chucamo) — SAT test platform  
-- 💻 Fullstack apps — React + Express + MongoDB   
-
-
-
 <p align="center">
   <img width="391" height="200" alt="image" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
 <p>
