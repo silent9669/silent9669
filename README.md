@@ -4,33 +4,6 @@
 </p>
 
 # <img width="30" height="50" alt="image" src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/VN%402x.png"> Xin Chao, I'm Dang Phuc ~ こんにちは 👋  
-
-
-
----
-
-## 🔧 Tech Stack
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,cpp" />
-</p>
-
-### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🛠️ Tools & Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,jupyter" />
-</p>
-
 ---
 ## 🏆 Achievement & Rank
 <p align="center">
