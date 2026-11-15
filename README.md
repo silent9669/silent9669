@@ -22,10 +22,8 @@ My everyday tools include Rust, TypeScript, Tauri, SQLite, and macOS development
 
 <div align="center">
 
-<a href="https://github.com/silent9669">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silent9669&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Dang Phuc's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silent9669&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" alt="Dang Phuc's top languages" />
-</a>
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silent9669&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Dang Phuc's GitHub statistics" />
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silent9669&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" alt="Dang Phuc's top languages" />
 
 <br />
 
