@@ -16,39 +16,22 @@ I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and
 
 ## What I work with
 
-### Desktop & native
-
-<div>
-  <img src="https://skillicons.dev/icons?i=rust,tauri,apple&theme=light" height="48" alt="Rust, Tauri, and macOS" />
-</div>
-
-### Web & interface
-
-<div>
-  <img src="https://skillicons.dev/icons?i=ts,react,vite&theme=light" height="48" alt="TypeScript, React, and Vite" />
-</div>
-
-### Backend & data
-
-<div>
-  <img src="https://skillicons.dev/icons?i=rust,sqlite,python&theme=light" height="48" alt="Rust, SQLite, and Python" />
-</div>
-
-### Tooling & AI
-
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=light" height="48" alt="Git and GitHub" />
-</div>
+| Category | Technologies |
+| --- | --- |
+| **Desktop & native** | <img src="https://skillicons.dev/icons?i=rust,tauri,apple&theme=light" height="30" alt="Rust, Tauri, macOS" /> |
+| **Web & interface** | <img src="https://skillicons.dev/icons?i=ts,react,vite&theme=light" height="30" alt="TypeScript, React, Vite" /> |
+| **Backend & data** | <img src="https://skillicons.dev/icons?i=rust,sqlite,python&theme=light" height="30" alt="Rust, SQLite, Python" /> |
+| **Tooling & AI** | <img src="https://skillicons.dev/icons?i=git,github&theme=light" height="30" alt="Git, GitHub" /> |
 
 ## My activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/silent9669/silent9669/1dd6363377dc5f9db56e9a7b2dd1303783afe243/assets/activity.svg" width="900" alt="Dang Phuc's activity" />
+<img src="https://streak-stats.demolab.com?user=silent9669&theme=tokyonight&hide_border=true" alt="Dang Phuc's GitHub streak" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=silent9669&theme=tokyonight&hide_border=true" alt="Dang Phuc's GitHub streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=silent9669&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Dang Phuc's contribution graph" />
 
 </div>
 
