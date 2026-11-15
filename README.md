@@ -6,15 +6,15 @@
 
 Ho Chi Minh City, Vietnam
 
-[Website](https://chucamo.org)　·　[GitHub](https://github.com/silent9669)　·　[OpenPMCA](https://github.com/OpenPMCA)
+Website　·　GitHub　·　OpenPMCA
 
 </div>
 
 ## About me
 
-I am the software developer behind **[chucamo.org](https://chucamo.org)**, building practical tools and small products with clear interfaces and dependable behavior.
+I am the software developer behind **chucamo.org**, building practical tools and small products with clear interfaces and dependable behavior.
 
-I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, a native macOS app for HoYoverse games. I also work on desktop applications, AI tooling, and automation, including **[ani-desk](https://github.com/silent9669/ani-desk)**.
+I maintain **OpenPMCA** for Sony PMCA cameras and **MacGacha4Life**, a native macOS app for HoYoverse games. I also work on desktop applications, AI tooling, and automation, including **ani-desk**.
 
 My everyday tools include Rust, TypeScript, Tauri, SQLite, and macOS development.
 
