@@ -1,10 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
-  <title id="title">Quiet night profile footer</title>
-  <desc id="desc">A minimal navy and lavender anime-inspired footer with Japanese text.</desc>
+  <title id="title">Matane</title>
+  <desc id="desc">A quiet navy and lavender footer.</desc>
   <defs><linearGradient id="night" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#090d25"/><stop offset=".5" stop-color="#242650"/><stop offset="1" stop-color="#090d25"/></linearGradient></defs>
   <rect width="1200" height="150" rx="18" fill="url(#night)"/>
   <path d="M0 112 Q180 80 350 112 T700 106 T1200 100" fill="none" stroke="#d7a8c8" stroke-width="1" opacity=".8"/>
   <g fill="#fff" opacity=".7"><circle cx="100" cy="45" r="2"/><circle cx="270" cy="78" r="1.5"/><circle cx="915" cy="50" r="2"/><circle cx="1080" cy="82" r="1.5"/></g>
-  <text x="600" y="78" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="5" fill="#f7dce9">月明かりの下で、また会いましょう</text>
-  <text x="600" y="108" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="#cbbbd5">SEE YOU UNDER THE MOONLIGHT</text>
+  <text x="600" y="91" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" letter-spacing="10" fill="#f7dce9">またね</text>
 </svg>
