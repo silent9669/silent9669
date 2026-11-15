@@ -1,20 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="190" viewBox="0 0 800 190" role="img" aria-labelledby="title desc">
-  <title id="title">Dang Phuc activity</title>
-  <desc id="desc">A compact anime-inspired activity banner.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">Dang Phuc activity banner</title>
+  <desc id="desc">A quiet navy activity banner with Japanese text.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0e27"/><stop offset=".55" stop-color="#1a2147"/><stop offset="1" stop-color="#44345e"/></linearGradient>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#090d25"/><stop offset=".5" stop-color="#242650"/><stop offset="1" stop-color="#090d25"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d7a8c8" stop-opacity="0"/><stop offset=".5" stop-color="#d7a8c8"/><stop offset="1" stop-color="#d7a8c8" stop-opacity="0"/></linearGradient>
   </defs>
-  <rect width="800" height="190" rx="16" fill="url(#bg)"/>
-  <g fill="#fff" opacity=".7"><circle cx="55" cy="34" r="2"/><circle cx="184" cy="62" r="1.5"/><circle cx="620" cy="32" r="2"/><circle cx="748" cy="58" r="1.5"/></g>
-  <text x="400" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#dcb9d4">MY ACTIVITY</text>
-  <path d="M90 62 H710" stroke="#dba9c8" stroke-opacity=".55"/>
-  <g text-anchor="middle" font-family="Georgia, serif" fill="#fff5f5">
-    <text x="145" y="112" font-size="23">Build</text>
-    <text x="400" y="112" font-size="23">Maintain</text>
-    <text x="655" y="112" font-size="23">Explore</text>
-    <text x="145" y="141" font-size="13" fill="#d9c9dc">apps · tools</text>
-    <text x="400" y="141" font-size="13" fill="#d9c9dc">OpenPMCA · MacGacha4Life</text>
-    <text x="655" y="141" font-size="13" fill="#d9c9dc">anime · AI</text>
-  </g>
-  <path d="M90 164 H710" stroke="#dba9c8" stroke-opacity=".55"/>
+  <rect width="900" height="180" rx="18" fill="url(#night)"/>
+  <g fill="#fff" opacity=".7"><circle cx="70" cy="42" r="2"/><circle cx="210" cy="78" r="1.5"/><circle cx="690" cy="38" r="2"/><circle cx="820" cy="72" r="1.5"/></g>
+  <path d="M120 62 H780" stroke="url(#line)"/>
+  <text x="450" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#dcb9d4">MY ACTIVITY</text>
+  <text x="450" y="108" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="7" fill="#f7dce9">静かに、よくつくる。</text>
+  <text x="450" y="137" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#cbbbd5">BUILD · MAINTAIN · EXPLORE</text>
+  <path d="M120 155 H780" stroke="url(#line)"/>
 </svg>
