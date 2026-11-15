@@ -4,6 +4,9 @@
 
 <br />
 
+<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="180" alt="Anime character waving" />
+<img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="180" alt="Anime character celebrating" />
+
 ### こんにちは、I'm Dang Phuc
 
 **Developer · Open-source maintainer · Night owl**
