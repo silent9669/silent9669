@@ -25,7 +25,7 @@ I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/silent9669/silent9669/main/assets/activity.svg" width="800" alt="Dang Phuc's activity" />
+<img src="https://raw.githubusercontent.com/silent9669/silent9669/d031252c25e989498808ed1544c4afa5a7b688fa/assets/activity.svg" width="800" alt="Dang Phuc's activity" />
 
 <br />
 
