@@ -1,6 +1,6 @@
 <div align="center">
 
-# こんにちは！、僕はDangPhucです。
+# こんにちは、Dang Phucです。
 
 **Software developer · Open-source maintainer · Ho Chi Minh City, Vietnam**
 
@@ -8,11 +8,13 @@
 
 ## About me
 
-I am the software developer behind **[chucamo.org](https://chucamo.org)**, where I build practical software, developer tools, and focused digital experiences.
+I am a software developer based in Ho Chi Minh City and the creator of **[chucamo.org](https://chucamo.org)**, where I turn ideas into practical software, developer tools, and focused digital experiences.
 
-I maintain **[OpenPMCA](https://github.com/OpenPMCA)**, an open-source project for Sony PMCA cameras, as well as **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, an open-source native app for Mac to play HoYoverse's games. I care about thoughtful interfaces, useful automation, and software that stays understandable as it grows.
+I maintain **[OpenPMCA](https://github.com/OpenPMCA)**, an open-source toolkit for Sony PMCA cameras, and **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, a native macOS app for playing HoYoverse games. I enjoy building software with a calm interface, a clear purpose, and enough care under the hood to make it last.
 
-## GitHub activity
+My usual tools are Rust, TypeScript, Tauri, Cloudflare Workers, and D1. I am especially interested in desktop applications, automation, and making complicated workflows feel simple.
+
+## My activity
 
 <div align="center">
 
@@ -29,6 +31,6 @@ I maintain **[OpenPMCA](https://github.com/OpenPMCA)**, an open-source project f
 
 <div align="center">
 
-<img src="./assets/anime-footer.svg" width="100%" alt="Quiet night footer banner" />
+<img src="./assets/anime-footer.svg" width="100%" alt="Japanese quiet night footer banner" />
 
 </div>
