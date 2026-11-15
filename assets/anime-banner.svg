@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Dang Phuc anime profile banner</title>
+  <desc id="desc">A twilight anime-inspired banner with sakura and a moon.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17153b"/>
+      <stop offset="0.55" stop-color="#493477"/>
+      <stop offset="1" stop-color="#e47ca8"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fff5cc" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#ffd6e7" stop-opacity=".75"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="8"/></filter>
+  </defs>
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <circle cx="930" cy="105" r="78" fill="#ffe8ef" opacity=".18" filter="url(#blur)"/>
+  <circle cx="930" cy="105" r="58" fill="url(#glow)"/>
+  <g fill="#fff" opacity=".8">
+    <circle cx="90" cy="70" r="2"/><circle cx="180" cy="135" r="2"/><circle cx="320" cy="55" r="2"/><circle cx="470" cy="112" r="2"/><circle cx="760" cy="62" r="2"/><circle cx="1080" cy="52" r="2"/><circle cx="1130" cy="170" r="2"/>
+  </g>
+  <path d="M0 292 Q180 235 355 286 T700 275 T1200 260 V360 H0Z" fill="#17152f" opacity=".92"/>
+  <path d="M0 315 Q220 268 420 318 T800 304 T1200 290 V360 H0Z" fill="#0d1024"/>
+  <g stroke="#17152f" stroke-width="10" stroke-linecap="round" fill="none">
+    <path d="M80 310 Q95 170 150 100"/><path d="M145 205 Q205 150 250 128"/><path d="M108 238 Q55 195 30 157"/>
+  </g>
+  <g fill="#ffb7d1">
+    <circle cx="145" cy="104" r="11"/><circle cx="177" cy="137" r="9"/><circle cx="245" cy="126" r="10"/><circle cx="32" cy="156" r="9"/><circle cx="75" cy="184" r="8"/><circle cx="198" cy="174" r="8"/>
+  </g>
+  <g font-family="Georgia, serif" fill="#fff8fb" text-anchor="middle">
+    <text x="600" y="154" font-size="54" font-weight="700" letter-spacing="7">DANG PHUC</text>
+    <text x="600" y="198" font-size="19" letter-spacing="4" fill="#ffd9e8">DEVELOPER · OPEN SOURCE · NIGHT OWL</text>
+    <text x="600" y="246" font-size="16" fill="#fbeaf3">Building useful tools beneath a quiet moon.</text>
+  </g>
+</svg>
