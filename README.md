@@ -1,18 +1,47 @@
 <div align="center">
 
-# こんにちは、Dang Phucです。
+# Dang Phuc
 
-**Software developer · Open-source maintainer · Ho Chi Minh City, Vietnam**
+### Software developer · Open-source maintainer
+
+Ho Chi Minh City, Vietnam
+
+[Website](https://chucamo.org)　·　[GitHub](https://github.com/silent9669)　·　[OpenPMCA](https://github.com/OpenPMCA)
 
 </div>
 
+<br />
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
 ## About me
 
-I am a software developer from Ho Chi Minh City and the person behind **[chucamo.org](https://chucamo.org)**. I build practical software, developer tools, and small products with a focus on clear interfaces and dependable behavior.
+I build software with a quiet, practical style: clear interfaces, useful automation, and systems that remain easy to understand.
 
-I maintain **[OpenPMCA](https://github.com/OpenPMCA)**, an open-source toolkit for Sony PMCA cameras, and **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, a native macOS app for playing HoYoverse games. I also build **[VJBot](https://github.com/silent9669/VJ_BOT)** for Vietnamese learners studying Japanese, **[ani-desk](https://github.com/silent9669/ani-desk)** for anime libraries, and tools such as **[Codex Atlas](https://github.com/silent9669/codex-atlas)** and **[SkyTrack MCP](https://github.com/silent9669/skytrack-mcp)**.
+I am the developer behind **[chucamo.org](https://chucamo.org)** and the maintainer of **[OpenPMCA](https://github.com/OpenPMCA)**, an open-source toolkit for Sony PMCA cameras. I also maintain **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, a native macOS app for playing HoYoverse games.
 
-My work moves between Rust, TypeScript, Tauri, Cloudflare Workers, D1, AI tooling, and automation. I enjoy taking a complicated workflow and making it feel quiet, focused, and easy to use.
+My work spans desktop apps, web products, AI tooling, and developer infrastructure. I enjoy turning complicated workflows into focused tools that feel natural to use.
+
+    </td>
+    <td width="42%" valign="top">
+
+## Currently building
+
+- **VJBot** — Japanese learning for Vietnamese learners
+- **ani-desk** — a cross-platform anime library
+- **MegaDay Twin** — AI-assisted Shopee ad decisions
+- **Codex Atlas** — a live repository graph for Codex
+- **SkyTrack MCP** — mission tooling for AI agents
+
+    </td>
+  </tr>
+</table>
+
+## Tools I reach for
+
+`Rust`　`TypeScript`　`Tauri`　`Cloudflare Workers`　`D1`　`SQLite`　`AI tooling`
 
 ## My activity
 
