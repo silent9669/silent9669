@@ -12,9 +12,13 @@ Ho Chi Minh City, Vietnam
 
 I am the software developer behind **[chucamo.org](https://chucamo.org)**, building practical tools and small products with clear interfaces and dependable behavior.
 
-I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, a native macOS app for HoYoverse games. I also work on desktop applications, AI tooling, and automation, including **[ani-desk](https://github.com/silent9669/ani-desk)**.
+I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, a native macOS app for HoYoverse games. I also build anime-focused tools, including **[ani-desk](https://github.com/silent9669/ani-desk)**, **[any-watch](https://github.com/silent9669/any-watch)**, and **[ani-tui](https://github.com/silent9669/ani-tui)**.
 
-My everyday tools include Rust, TypeScript, Tauri, SQLite, and macOS development.
+## What I work with
+
+- **Desktop:** Rust, Tauri, native macOS applications
+- **Anime & media:** React, Vite, Axum, mpv, browser playback
+- **Data & tooling:** TypeScript, SQLite, AI-assisted automation
 
 ## My activity
 
