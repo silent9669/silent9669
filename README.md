@@ -18,34 +18,27 @@ I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and
 
 ### Desktop & native
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="44" height="44" alt="Rust" title="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="44" height="44" alt="Tauri" title="Tauri" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="44" height="44" alt="macOS" title="macOS" />
-</p>
+<div>
+  <img src="https://skillicons.dev/icons?i=rust,tauri,apple&theme=light" height="48" alt="Rust, Tauri, and macOS" />
+</div>
 
 ### Web & interface
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="44" height="44" alt="Vite" title="Vite" />
-</p>
+<div>
+  <img src="https://skillicons.dev/icons?i=ts,react,vite&theme=light" height="48" alt="TypeScript, React, and Vite" />
+</div>
 
 ### Backend & data
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axum/axum-original.svg" width="44" height="44" alt="Axum" title="Axum" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="44" height="44" alt="SQLite" title="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python" />
-</p>
+<div>
+  <img src="https://skillicons.dev/icons?i=rust,sqlite,python&theme=light" height="48" alt="Rust, SQLite, and Python" />
+</div>
 
 ### Tooling & AI
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="44" height="44" alt="GitHub" title="GitHub" />
-</p>
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=light" height="48" alt="Git and GitHub" />
+</div>
 
 ## My activity
 
