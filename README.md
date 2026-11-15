@@ -18,7 +18,7 @@ My usual tools are Rust, TypeScript, Tauri, Cloudflare Workers, and D1. I am esp
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=silent9669&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" alt="Dang Phuc's GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=silent9669&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="Dang Phuc's GitHub statistics" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent9669&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&cache_seconds=86400" alt="Dang Phuc's most used languages" />
 
 <br />
@@ -31,6 +31,6 @@ My usual tools are Rust, TypeScript, Tauri, Cloudflare Workers, and D1. I am esp
 
 <div align="center">
 
-<img src="./assets/anime-footer.svg" width="100%" alt="Japanese quiet night footer banner" />
+<img src="https://raw.githubusercontent.com/silent9669/silent9669/main/assets/anime-footer.svg" width="100%" alt="Japanese quiet night footer banner" />
 
 </div>
