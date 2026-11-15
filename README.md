@@ -1,8 +1,8 @@
 <div align="center">
 
-# Dang Phuc
+# こんにちは、Dang Phucです。
 
-### Software developer · Open-source maintainer
+**Software developer · Open-source maintainer**
 
 Ho Chi Minh City, Vietnam
 
@@ -10,44 +10,26 @@ Ho Chi Minh City, Vietnam
 
 </div>
 
-<br />
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
 ## About me
 
-I build software with a quiet, practical style: clear interfaces, useful automation, and systems that remain easy to understand.
+I am the software developer behind **[chucamo.org](https://chucamo.org)**, building practical tools and small products with clear interfaces and dependable behavior.
 
-I am the developer behind **[chucamo.org](https://chucamo.org)** and the maintainer of **[OpenPMCA](https://github.com/OpenPMCA)**, an open-source toolkit for Sony PMCA cameras. I also maintain **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, a native macOS app for playing HoYoverse games.
+I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, a native macOS app for HoYoverse games. I also explore Japanese learning, desktop apps, AI tooling, and automation through projects such as **[VJBot](https://github.com/silent9669/VJ_BOT)** and **[ani-desk](https://github.com/silent9669/ani-desk)**.
 
-My work spans desktop apps, web products, AI tooling, and developer infrastructure. I enjoy turning complicated workflows into focused tools that feel natural to use.
-
-    </td>
-    <td width="42%" valign="top">
-
-## Currently building
-
-- **VJBot** — Japanese learning for Vietnamese learners
-- **ani-desk** — a cross-platform anime library
-- **MegaDay Twin** — AI-assisted Shopee ad decisions
-- **Codex Atlas** — a live repository graph for Codex
-- **SkyTrack MCP** — mission tooling for AI agents
-
-    </td>
-  </tr>
-</table>
-
-## Tools I reach for
-
-`Rust`　`TypeScript`　`Tauri`　`Cloudflare Workers`　`D1`　`SQLite`　`AI tooling`
+My everyday stack includes Rust, TypeScript, Tauri, Cloudflare Workers, D1, and SQLite.
 
 ## My activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/silent9669/silent9669/main/assets/activity.svg" width="100%" alt="Dang Phuc's activity" />
+<a href="https://github.com/silent9669">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=silent9669&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Dang Phuc's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent9669&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" alt="Dang Phuc's top languages" />
+</a>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=silent9669&theme=tokyonight&hide_border=true" alt="Dang Phuc's GitHub streak" />
 
 </div>
 
