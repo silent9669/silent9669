@@ -16,15 +16,16 @@ I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and
 
 ## What I work with
 
-- **Desktop:** Rust, Tauri, native macOS applications
-- **Anime & media:** React, Vite, Axum, mpv, browser playback
-- **Data & tooling:** TypeScript, SQLite, AI-assisted automation
+- **Desktop & native:** Rust, Tauri, macOS applications, mpv
+- **Web & interface:** TypeScript, React, Vite, browser playback
+- **Backend & data:** Rust/Axum, SQLite, authenticated APIs
+- **AI & automation:** MCP servers, AI integrations, developer tooling
 
 ## My activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/silent9669/silent9669/main/assets/activity.svg" width="100%" alt="Dang Phuc's activity" />
+<img src="https://raw.githubusercontent.com/silent9669/silent9669/main/assets/activity.svg" width="800" alt="Dang Phuc's activity" />
 
 <br />
 
