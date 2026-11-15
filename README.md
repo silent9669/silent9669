@@ -16,16 +16,42 @@ I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and
 
 ## What I work with
 
-- **Desktop & native:** Rust, Tauri, macOS applications, mpv
-- **Web & interface:** TypeScript, React, Vite, browser playback
-- **Backend & data:** Rust/Axum, SQLite, authenticated APIs
-- **AI & automation:** MCP servers, AI integrations, developer tooling
+### Desktop & native
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="44" height="44" alt="Rust" title="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="44" height="44" alt="Tauri" title="Tauri" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="44" height="44" alt="macOS" title="macOS" />
+</p>
+
+### Web & interface
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="44" height="44" alt="Vite" title="Vite" />
+</p>
+
+### Backend & data
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axum/axum-original.svg" width="44" height="44" alt="Axum" title="Axum" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="44" height="44" alt="SQLite" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python" />
+</p>
+
+### Tooling & AI
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="44" height="44" alt="GitHub" title="GitHub" />
+</p>
 
 ## My activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/silent9669/silent9669/d031252c25e989498808ed1544c4afa5a7b688fa/assets/activity.svg" width="800" alt="Dang Phuc's activity" />
+<img src="https://raw.githubusercontent.com/silent9669/silent9669/1dd6363377dc5f9db56e9a7b2dd1303783afe243/assets/activity.svg" width="900" alt="Dang Phuc's activity" />
 
 <br />
 
