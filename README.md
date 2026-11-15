@@ -1,44 +1,47 @@
 <div align="center">
 
-# こんにちは、Dang Phucです。
-
-**Software developer · Open-source maintainer**
-
-Ho Chi Minh City, Vietnam
+<img src="assets/banner-hero.svg" width="100%" alt="こんにちは、Dang Phucです。 ソフトウェアエンジニア · Ho Chi Minh City" />
 
 </div>
 
-## About me
+## About
 
-I am the software developer behind **[chucamo.org](https://chucamo.org)**, building practical tools and small products with clear interfaces and dependable behavior.
+I design and build desktop, web and developer tools with clear interfaces and dependable behavior. Most of my work is native macOS software and Rust desktop apps.
 
-I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, a native macOS app for HoYoverse games. I also build anime-focused tools, including **[ani-desk](https://github.com/silent9669/ani-desk)**, **[any-watch](https://github.com/silent9669/any-watch)**, and **[ani-tui](https://github.com/silent9669/ani-tui)**.
+I run [chucamo.org](https://chucamo.org) and maintain [OpenPMCA](https://github.com/OpenPMCA), an open project for Sony PMCA cameras.
 
-## What I work with
+## Projects
 
-| Category | Technologies |
-| --- | --- |
-| **Desktop & native** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="28" alt="Rust" title="Rust" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" height="28" alt="Tauri" title="Tauri" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="28" alt="macOS" title="macOS" /> |
-| **Web & interface** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" title="TypeScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="28" alt="React" title="React" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" height="28" alt="Vite" title="Vite" /> |
-| **Backend & data** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="28" alt="Rust" title="Rust" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="28" alt="SQLite" title="SQLite" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" alt="Python" title="Python" /> |
-| **Tooling & AI** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="28" alt="Git" title="Git" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="28" alt="GitHub" title="GitHub" /> |
+- **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**: native Liquid Glass launcher for Genshin Impact, Honkai: Star Rail and Zenless Zone Zero on Apple Silicon. `Swift`
+- **[ani-desk](https://github.com/silent9669/ani-desk)**: cross-platform anime streaming app with a Netflix-style interface and a secure Rust core. `Rust` `Tauri` `TypeScript`
+- **[any-watch](https://github.com/silent9669/any-watch)**: private family streaming for desktop, mobile and TV browsers. `Rust`
 
-## My activity
+## Stack
+
+**Languages**<br />
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Native & Desktop**<br />
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+**Frontend**<br />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Backend & Data**<br />
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**<br />
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Tooling**<br />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=silent9669&theme=tokyonight&hide_border=true" alt="Dang Phuc's GitHub streak" />
+<img src="assets/banner-divider.svg" width="100%" alt="" />
 
-<br />
+<img src="https://streak-stats.demolab.com?user=silent9669&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=silent9669&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Dang Phuc's contribution graph" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/silent9669/silent9669/main/assets/anime-footer.svg" width="100%" alt="またね" />
+<img src="assets/banner-footer.svg" width="100%" alt="またね" />
 
 </div>
