@@ -18,10 +18,10 @@ I maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and
 
 | Category | Technologies |
 | --- | --- |
-| **Desktop & native** | <img src="https://skillicons.dev/icons?i=rust,tauri,apple&theme=light" height="30" alt="Rust, Tauri, macOS" /> |
-| **Web & interface** | <img src="https://skillicons.dev/icons?i=ts,react,vite&theme=light" height="30" alt="TypeScript, React, Vite" /> |
-| **Backend & data** | <img src="https://skillicons.dev/icons?i=rust,sqlite,python&theme=light" height="30" alt="Rust, SQLite, Python" /> |
-| **Tooling & AI** | <img src="https://skillicons.dev/icons?i=git,github&theme=light" height="30" alt="Git, GitHub" /> |
+| **Desktop & native** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="28" alt="Rust" title="Rust" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" height="28" alt="Tauri" title="Tauri" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="28" alt="macOS" title="macOS" /> |
+| **Web & interface** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" title="TypeScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="28" alt="React" title="React" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" height="28" alt="Vite" title="Vite" /> |
+| **Backend & data** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="28" alt="Rust" title="Rust" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="28" alt="SQLite" title="SQLite" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" alt="Python" title="Python" /> |
+| **Tooling & AI** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="28" alt="Git" title="Git" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="28" alt="GitHub" title="GitHub" /> |
 
 ## My activity
 
