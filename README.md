@@ -9,7 +9,7 @@
 
 ### こんにちは、I'm Dang Phuc
 
-**Developer · Open-source maintainer · Night owl**
+**Software developer · Open-source maintainer · Night owl**
 
 [Website](https://chucamo.org) · [GitHub](https://github.com/silent9669) · [OpenPMCA](https://github.com/OpenPMCA)
 
@@ -17,9 +17,9 @@
 
 ## About this character
 
-I build developer tools, focused utilities and small apps from **Ho Chi Minh City, Vietnam**.
+I am the software developer behind **[chucamo.org](https://chucamo.org)**, building developer tools, focused utilities and small apps from **Ho Chi Minh City, Vietnam**.
 
-Currently maintaining **[OpenPMCA](https://github.com/OpenPMCA)** — open tools for Sony PMCA cameras. I like quiet interfaces, useful automation, and turning complicated workflows into simple ones.
+I currently maintain **[OpenPMCA](https://github.com/OpenPMCA)** for Sony PMCA cameras and **MacGacha4Life**. I like quiet interfaces, useful automation, and turning complicated workflows into simple ones.
 
 ## Current arc
 
