@@ -1,24 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
   <title id="title">Dang Phuc activity</title>
-  <desc id="desc">A local profile activity banner showing the areas Dang Phuc builds in.</desc>
+  <desc id="desc">A compact local activity banner showing what Dang Phuc builds and maintains.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0e27"/><stop offset=".55" stop-color="#1a2147"/><stop offset="1" stop-color="#44345e"/></linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#dba9c8" stop-opacity="0"/><stop offset=".5" stop-color="#dba9c8"/><stop offset="1" stop-color="#dba9c8" stop-opacity="0"/></linearGradient>
   </defs>
-  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
-  <g fill="#fff" opacity=".7"><circle cx="72" cy="42" r="2"/><circle cx="318" cy="70" r="1.5"/><circle cx="865" cy="38" r="2"/><circle cx="1114" cy="74" r="1.5"/></g>
-  <text x="600" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#dcb9d4">MY ACTIVITY</text>
-  <path d="M190 80 H1010" stroke="url(#line)"/>
+  <rect width="960" height="240" rx="18" fill="url(#bg)"/>
+  <g fill="#fff" opacity=".7"><circle cx="70" cy="38" r="2"/><circle cx="270" cy="65" r="1.5"/><circle cx="690" cy="36" r="2"/><circle cx="890" cy="68" r="1.5"/></g>
+  <text x="480" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#dcb9d4">MY ACTIVITY</text>
+  <path d="M125 70 H835" stroke="url(#line)"/>
   <g text-anchor="middle" font-family="Georgia, serif">
-    <text x="210" y="140" font-size="27" fill="#fff5f5">Build</text>
-    <text x="210" y="174" font-size="14" fill="#d9c9dc">developer tools</text>
-    <text x="210" y="197" font-size="14" fill="#d9c9dc">and small apps</text>
-    <text x="600" y="140" font-size="27" fill="#fff5f5">Maintain</text>
-    <text x="600" y="174" font-size="14" fill="#d9c9dc">OpenPMCA</text>
-    <text x="600" y="197" font-size="14" fill="#d9c9dc">MacGacha4Life</text>
-    <text x="990" y="140" font-size="27" fill="#fff5f5">Explore</text>
-    <text x="990" y="174" font-size="14" fill="#d9c9dc">AI, automation</text>
-    <text x="990" y="197" font-size="14" fill="#d9c9dc">and new ideas</text>
+    <text x="160" y="128" font-size="26" fill="#fff5f5">Build</text>
+    <text x="160" y="160" font-size="14" fill="#d9c9dc">apps &amp; tools</text>
+    <text x="480" y="128" font-size="26" fill="#fff5f5">Maintain</text>
+    <text x="480" y="160" font-size="14" fill="#d9c9dc">OpenPMCA · MacGacha4Life</text>
+    <text x="800" y="128" font-size="26" fill="#fff5f5">Explore</text>
+    <text x="800" y="160" font-size="14" fill="#d9c9dc">AI &amp; automation</text>
   </g>
-  <path d="M190 220 H1010" stroke="url(#line)"/>
+  <path d="M125 190 H835" stroke="url(#line)"/>
 </svg>
