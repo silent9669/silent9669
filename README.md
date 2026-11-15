@@ -1,10 +1,8 @@
 <div align="center">
 
-# Dang Phuc
+# こんにちは！、僕はDangPhucです。
 
 **Software developer · Open-source maintainer · Ho Chi Minh City, Vietnam**
-
-[Website](https://chucamo.org)　·　[GitHub](https://github.com/silent9669)　·　[OpenPMCA](https://github.com/OpenPMCA)
 
 </div>
 
@@ -12,9 +10,7 @@
 
 I am the software developer behind **[chucamo.org](https://chucamo.org)**, where I build practical software, developer tools, and focused digital experiences.
 
-I maintain **[OpenPMCA](https://github.com/OpenPMCA)**, an open-source project for Sony PMCA cameras, as well as **MacGacha4Life**. My work usually combines Rust, TypeScript, Tauri, Cloudflare Workers, and D1 to turn complex ideas into simple, reliable applications.
-
-I care about thoughtful interfaces, useful automation, and software that stays understandable as it grows.
+I maintain **[OpenPMCA](https://github.com/OpenPMCA)**, an open-source project for Sony PMCA cameras, as well as **[MacGacha4Life](https://github.com/silent9669/MacGacha4Life)**, an open-source native app for Mac to play HoYoverse's games. I care about thoughtful interfaces, useful automation, and software that stays understandable as it grows.
 
 ## GitHub activity
 
